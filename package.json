@@ -28,15 +28,5 @@
   "main": "next.config.js",
   "directories": {
     "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kriyathor/Kriyathor-web.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kriyathor/Kriyathor-web/issues"
-  },
-  "homepage": "https://github.com/Kriyathor/Kriyathor-web#readme"
+  }
 }
