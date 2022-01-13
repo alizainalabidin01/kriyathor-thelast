@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/kriyatho/public_html_pusing
-    - /bin/cp -R images $DEPLOYPATH
