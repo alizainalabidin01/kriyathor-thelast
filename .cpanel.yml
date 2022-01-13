@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/kriyatho/public_html_github/
+    - /bin/cp * $DEPLOYPATH
